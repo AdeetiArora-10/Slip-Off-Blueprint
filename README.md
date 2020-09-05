@@ -1,1 +1,1 @@
-# Box Class
+# Slip - Off Blueprint
